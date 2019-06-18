@@ -1,0 +1,16 @@
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.DataAccessLayer.dll.config
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.DataAccessLayer.dll
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.DataAccessLayer.pdb
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.Model.dll
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.Model.pdb
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.csproj.CopyComplete
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.dll
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.pdb
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.Migrations.intial.resources
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.csproj.GenerateResource.cache

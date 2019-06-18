@@ -1,0 +1,6 @@
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.Model\bin\Debug\AirVinyl.Model.dll
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.Model\bin\Debug\AirVinyl.Model.pdb
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.Model\obj\Debug\AirVinyl.Model.csprojAssemblyReference.cache
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.Model\obj\Debug\AirVinyl.Model.csproj.CoreCompileInputs.cache
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.Model\obj\Debug\AirVinyl.Model.dll
+C:\Users\cm6\Desktop\asp-dot-net-odata-v4-restful-api\1-asp-dot-net-odata-v4-restful-api-m1-exercise-files\start-end\AirVinyl.Model\obj\Debug\AirVinyl.Model.pdb
